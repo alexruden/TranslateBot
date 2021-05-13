@@ -1,6 +1,2 @@
-django
-gunicorn
-django-heroku
-
-pyTelegramBotAPI
-googletrans==3.1.0a0
+pyTelegramBotAPI --use-feature=2020-resolver
+googletrans==3.1.0a0 --use-feature=2020-resolver
