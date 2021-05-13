@@ -1,1 +1,1 @@
-web: python transbot/bot.py
+web: python transbot/test.py
