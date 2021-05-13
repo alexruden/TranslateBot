@@ -1,7 +1,7 @@
 import telebot
 from translator import TranslatorCore
 
-bot = telebot.TeleBot("TOKEN")
+bot = telebot.TeleBot("1858924910:AAHlfJkxwx9hPxUiT7mBdOs8L0rPZE-qPNI")
 translator = TranslatorCore()
 
 @bot.message_handler(content_types=['text'])
